@@ -1,0 +1,4 @@
+.venv/
+fused-fin-sql-3b/
+__pycache__/
+.DS_Store
